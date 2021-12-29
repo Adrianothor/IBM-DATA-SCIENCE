@@ -29,7 +29,17 @@ APRESENTA A LISTA DE CURSOS ABAIXO
 
 ## ARQUIVOS
 
+# COMO FAZER
 
+'''bash
+aqui eu posso escrever codigo e usar as aspas python para pintar o codigo de python
+fazer depois
+
+
+# autor
+
+linkedin
+'''
 <
 https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.wixstatic.com%2Fmedia%2F44dc63_f160bc77bb16413191f01d18aa142c68~mv2.jpg%2Fv1%2Ffill%2Fw_560%2Ch_316%2Cal_c%2Cq_80%2Cusm_0.66_1.00_0.01%2Fibm_en_inform%25C3%25A1tica.webp&imgrefurl=https%3A%2F%2Fwww.netec.com%2Fque-es-ibm-en-informatica&tbnid=523W7GV-3jWLyM&vet=12ahUKEwidw4bP2on1AhWXlJUCHdBDBwgQMygEegUIARCzAQ..i&docid=WN9kntN4ik9kdM&w=560&h=316&q=IBM&ved=2ahUKEwidw4bP2on1AhWXlJUCHdBDBwgQMygEegUIARCzAQ
 
