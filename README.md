@@ -1,7 +1,7 @@
 # IBM-DATA-SCIENCE
 ![ibm](https://github.com/Adrianothor/IBM-DATA-SCIENCE/blob/main/ASSETS/ibm.jpg)
 
-#### STATUS: INCOMPLETO
+#### STATUS: Completo
 
 ## APRESENTAÇÃO
 
@@ -18,22 +18,24 @@ APRESENTA A LISTA DE CURSOS ABAIXO
 9- Aprendizagem automática com Python
 10- Applied Data Science Capstone
 
-## CURSOS
+# CURSOS
 
-### 1- O que é ciência de dados?
+## 1- O que é ciência de dados?
 
-#### 1 SEMAMA
- a 1 SEMANAS MOSTROU A DEFINIÇÃO DE DATA SCIENCI E  A ROTINA DE TRABALHO DO DATA SCIENCI.
+O curso apresentou uma visão geral da área de Ciência de Dados. Ele desenvolve aspectos profisionais do desenvolvimento do Big Data dentro da área da ciência de dados.
 
-## CRONOGRAMA
-
-## ARQUIVOS
-
-# COMO FAZER
+### ARQUIVOS
+devo colocar aqui o arquivo com as respostas das questões... fazer isso até o final do mes!!! e pegar mais firme para fazer o curso e gravar as aulas!!! responsabilidade Adriano.
+### COMO FAZER
 
 '''bash
 aqui eu posso escrever codigo e usar as aspas python para pintar o codigo de python
 fazer depois
+
+## 2- Ferramentas de Data Science
+
+### ARQUIVOS
+
 
 
 # autor
